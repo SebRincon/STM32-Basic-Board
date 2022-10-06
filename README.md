@@ -2,6 +2,7 @@
 
 Basic STM32 Board with some basic interface and programmed in C.
 
+![pcb](assets/KiCad.jpg)
 
 
 ## Missing Assets Locations
