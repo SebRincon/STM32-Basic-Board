@@ -1,4 +1,4 @@
-Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor,JCLPCB Part
+Designator,Qnty,Value,Cmp name,Footprint,Description,Vendor,JLCPCB Part #
 "C1, C2, ",2,22u,C,Capacitor_SMD:C_0805_2012Metric,Unpolarized capacitor,,C140362
 "C3, ",1,10u,C,Capacitor_SMD:C_0603_1608Metric,Unpolarized capacitor,,C19702
 "C4, C6, C7, C8, C10, ",5,100n,C,Capacitor_SMD:C_0402_1005Metric,Unpolarized capacitor,,C131394
